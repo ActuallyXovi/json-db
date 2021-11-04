@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Isadora",
+      "username": "is.robinson",
+      "password": "akirose123",
+      "carrera": "Analista Programador Computacional"
+    },
+    {
+      "id": 2,
+      "name": "Vicente",
+      "username": "vi.calderona",
+      "password": "calderona",
+      "carrera": "Analista Programador Computacional"
+    },
+    {
+      "id": 3,
+      "name": "Maximiliano",
+      "username": "max.imiliano",
+      "password": "maxi1234",
+      "carrera": "Comunicación Audiovisual"
+    },
+    {
+      "id": 4,
+      "name": "Virgilio",
+      "username": "virg.ensanta",
+      "password": "virgilioxd",
+      "carrera": "Animación Digital"
+    }
+  ],
+  "ramos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "tramo": "Arquitectura",
+      "sigla": "ASY4131"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "tramo": "Calidad de Software",
+      "sigla": "CSY4111"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "tramo": "Estadística Descriptiva",
+      "sigla": "MAT4140"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "tramo": "Inglés Intermedio",
+      "sigla": "INI5111"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "tramo": "Programación de Aplicaciones Móviles",
+      "sigla": "PGY4121"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "tramo": "Ética para el trabajo",
+      "sigla": "EAY4470"
+    },
+    {
+      "userId": 2,
+      "id": 7,
+      "tramo": "Arquitectura",
+      "sigla": "ASY4131"
+    },
+    {
+      "userId": 2,
+      "id": 8,
+      "tramo": "Calidad de Software",
+      "sigla": "CSY4111"
+    },
+    {
+      "userId": 2,
+      "id": 9,
+      "tramo": "Estadística Descriptiva",
+      "sigla": "MAT4140"
+    },
+    {
+      "userId": 2,
+      "id": 10,
+      "tramo": "Inglés Intermedio",
+      "sigla": "INI5111"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "tramo": "Programación de Aplicaciones Móviles",
+      "sigla": "PGY4121"
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "tramo": "Ética para el trabajo",
+      "sigla": "EAY4470"
+    }
+  ],
+  "tareas": [
+    {
+      "userId": 1,
+      "username": "is.robinson",
+      "titulo": "Junta de trabajo arquitectura",
+      "descripcion": "a las 18:00 OTL",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "username": "vi.calderona",
+      "titulo": "Entrevista ",
+      "descripcion": "F",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "username": "is.robinson",
+      "titulo": "Junta APP Moviles",
+      "descripcion": "a las 17:00 T-T",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "username": "is.robinson",
+      "titulo": "Ayudaaaaa",
+      "descripcion": "quiero llorar sdfds",
+      "id": 4
+    }
+  ]
+}
