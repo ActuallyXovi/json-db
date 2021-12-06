@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Isadora",
+      "apellidos": "Robinson Tillería",
       "username": "is.robinson",
       "password": "akirose123",
       "carrera": "Analista Programador Computacional"
@@ -10,13 +11,15 @@
     {
       "id": 2,
       "name": "Vicente",
+      "apellidos": "Calderón Alarcón",
       "username": "vi.calderona",
-      "password": "calderona",
+      "password": "vicentecalderon",
       "carrera": "Analista Programador Computacional"
     },
     {
       "id": 3,
       "name": "Maximiliano",
+      "apellidos": "a a",
       "username": "max.imiliano",
       "password": "maxi1234",
       "carrera": "Comunicación Audiovisual"
@@ -24,6 +27,7 @@
     {
       "id": 4,
       "name": "Virgilio",
+      "apellidos": "e e",
       "username": "virg.ensanta",
       "password": "virgilioxd",
       "carrera": "Animación Digital"
@@ -105,32 +109,37 @@
   ],
   "tareas": [
     {
-      "userId": 1,
-      "username": "is.robinson",
-      "titulo": "Junta de trabajo arquitectura",
-      "descripcion": "a las 18:00 OTL",
+      "userId": 2,
+      "username": "vi.calderona",
+      "titulo": "Hablar con Dannna",
+      "descripcion": "Mañana a las 7:30 pm",
+      "id": 1
+    }
+  ],
+  "asignatura": [
+    {
+      "idAsignatura": "XXX0000",
+      "seccion": "00",
+      "asignatura": "Prueba",
+      "docente": "profesor",
+      "correo": "correo@prueba.cl",
       "id": 1
     },
     {
-      "userId": 2,
-      "username": "vi.calderona",
-      "titulo": "Entrevista ",
-      "descripcion": "F",
+      "idAsignatura": "XXX0000",
+      "seccion": "00",
+      "asignatura": "Prueba",
+      "docente": "profesor",
+      "correo": "correo@prueba.cl",
       "id": 2
     },
     {
-      "userId": 1,
-      "username": "is.robinson",
-      "titulo": "Junta APP Moviles",
-      "descripcion": "a las 17:00 T-T",
+      "idAsignatura": "PGY4121",
+      "seccion": "03",
+      "asignatura": "Programación de Aplicaciones Móviles",
+      "docente": "Vicente Calderón",
+      "correo": "vi.calderona@duocuc.cl",
       "id": 3
-    },
-    {
-      "userId": 1,
-      "username": "is.robinson",
-      "titulo": "Ayudaaaaa",
-      "descripcion": "quiero llorar sdfds",
-      "id": 4
     }
   ]
 }
